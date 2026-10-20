@@ -1,0 +1,81 @@
+body{
+background-color: #87ceeb; /* Sky Blue background */
+color: #1e293b;
+font-family: sans-serif;
+margin: 0px;
+padding-top: 80px;
+}
+
+/* Login Card Box */
+.login-box {
+background-color: #ffffff;
+width: 310px;
+padding: 20px;
+border-radius: 12px;
+/* Clean Solid Blue Border */
+border: 2px solid #0284c7; 
+}
+
+/* Headings with light bold */
+h2 {
+color: #0284c7;
+font-size: 22px;
+margin: 0px;
+font-weight: 600; /* halka bold */
+}
+
+.sub-title {
+color: #475569;
+font-size: 13px;
+font-weight: 500; /* halka bold */
+}
+
+/* Input label text */
+.label-text {
+margin: 0px;
+text-align: left;
+padding-left: 20px;
+font-size: 13px;
+color: #0284c7;
+font-weight: 600; /* halka bold */
+}
+
+/* Input style */
+input {
+width: 85%;
+height: 35px;
+border-radius: 6px;
+border: 1px solid #0284c7;
+padding-left: 8px;
+outline: none;
+margin-top: 5px;
+font-weight: 500; /* halka bold */
+}
+
+/* Button design */
+button {
+background: #0284c7;
+color: white;
+border: none;
+padding: 10px 25px;
+border-radius: 6px;
+font-weight: 600; /* halka bold */
+cursor: pointer;
+width: 90%;
+}
+
+button:hover{
+background-color: #0369a1;
+}
+
+/* Link style */
+a {
+color: #475569;
+font-size: 12px;
+font-weight: 600; /* halka bold */
+text-decoration: none;
+}
+
+a:hover {
+color: #0284c7;
+}
